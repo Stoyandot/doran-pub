@@ -2114,6 +2114,7 @@ figure.block img {
 .hero-title {
   font-weight: 300;
   font-size: 3em;
+  line-height:1.2;
 }
 
 p {
