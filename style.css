@@ -573,6 +573,7 @@ h3 {
 .timeline {
   border-top: 3px solid #88FF96;
   *zoom: 1;
+  margin-top:100px;
 }
 .timeline:after {
   content: " ";
